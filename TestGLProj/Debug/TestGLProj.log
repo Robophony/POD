@@ -1,0 +1,8 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  main.cpp
+C:\Users\ediso\OneDrive\Documents\UTSA\UTSA 2023\computer graphics\group project\Final Project\15 - lighting\TestGLProj\main.cpp(191,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ediso\OneDrive\Documents\UTSA\UTSA 2023\computer graphics\group project\Final Project\15 - lighting\TestGLProj\main.cpp(195,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ediso\OneDrive\Documents\UTSA\UTSA 2023\computer graphics\group project\Final Project\15 - lighting\TestGLProj\main.cpp(199,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ediso\OneDrive\Documents\UTSA\UTSA 2023\computer graphics\group project\Final Project\15 - lighting\TestGLProj\main.cpp(383,21): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\ediso\OneDrive\Documents\UTSA\UTSA 2023\computer graphics\group project\Final Project\15 - lighting\TestGLProj\main.cpp(386,22): warning C4305: 'argument': truncation from 'double' to 'const float'
+  TestGLProj.vcxproj -> C:\Users\ediso\OneDrive\Documents\UTSA\UTSA 2023\computer graphics\group project\Final Project\15 - lighting\Debug\TestGLProj.exe
